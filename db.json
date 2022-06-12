@@ -1,411 +1,416 @@
 {
-	"indexes": [{
-		"id": 1,
-		"name": "NIFTY",
-		"price": "17245.65",
-		"change": {
-			"value": "-69.85",
-			"percentage": "0.40"
-		}
-	}],
-	"userdata": {
-		"balance": "98000",
-		"portfolio": {
-			"invested": "17214.01",
-			"current": "23519.23",
-			"returns": "+32.05"
-		},
-		"holdings": [{
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91"
-			},
-			{
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20"
-			},
-			{
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91"
-			},
-			{
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57"
-			},
-			{
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9"
-			},
-			{
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3"
-			}
-		],
-		"transactions": [{
-				"type": "buy",
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91",
-				"date": "14th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20",
-				"date": "14th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91",
-				"date": "14th Jun 2022",
-				"time": "9:16 AM",
-				"status": "cancelled"
-			},
-			{
-				"type": "buy",
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57",
-				"date": "14th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9",
-				"date": "14th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3",
-				"date": "14th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "cancelled"
-			},
-			{
-				"type": "buy",
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "cancelled"
-			},
-			{
-				"type": "buy",
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3",
-				"date": "13th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91",
-				"date": "12th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20",
-				"date": "12th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91",
-				"date": "12th Jun 2022",
-				"time": "9:16 AM",
-				"status": "cancelled"
-			},
-			{
-				"type": "buy",
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57",
-				"date": "12th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9",
-				"date": "12th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3",
-				"date": "12th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91",
-				"date": "11th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20",
-				"date": "11th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91",
-				"date": "11th Jun 2022",
-				"time": "9:16 AM",
-				"status": "cancelled"
-			},
-			{
-				"type": "buy",
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57",
-				"date": "11th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9",
-				"date": "11th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3",
-				"date": "11th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "Axis Bank",
-				"price": "1291",
-				"changePer": "-12.91",
-				"date": "10th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "SBI Cards",
-				"price": "781",
-				"changePer": "17.20",
-				"date": "10th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			},
-			{
-				"type": "buy",
-				"name": "IRCTC",
-				"price": "2331",
-				"changePer": "8.91",
-				"date": "10th Jun 2022",
-				"time": "9:16 AM",
-				"status": "cancelled"
-			},
-			{
-				"type": "buy",
-				"name": "MRF",
-				"price": "72910",
-				"changePer": "3.57",
-				"date": "10th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "LICI",
-				"price": "714",
-				"changePer": "-11.9",
-				"date": "10th Jun 2022",
-				"time": "9:16 AM",
-				"status": "pending"
-			},
-			{
-				"type": "sell",
-				"name": "BAJAJ",
-				"price": "3340",
-				"changePer": "12.3",
-				"date": "10th Jun 2022",
-				"time": "9:16 AM",
-				"status": "success"
-			}
-		]
-	},
-	"stocks": [{
-			"name": "Axis Bank",
-			"price": "1291",
-			"changePer": "-12.91"
-		},
-		{
-			"name": "SBI Cards",
-			"price": "781",
-			"changePer": "17.20"
-		},
-		{
-			"name": "IRCTC",
-			"price": "2331",
-			"changePer": "8.91"
-		},
-		{
-			"name": "MRF",
-			"price": "72910",
-			"changePer": "3.57"
-		},
-		{
-			"name": "LICI",
-			"price": "714",
-			"changePer": "-11.9"
-		},
-		{
-			"name": "BAJAJ",
-			"price": "3340",
-			"changePer": "12.3"
-		}
-	],
-	"news": [
-		"Every quarter of the last 12 quarters has given reason to turn more positive and raise target multiples of ICICI Bank, said Khemka. ",
-		"IIFL is bullish on HG Infra as it has been able to maintain strength in revenue growth momentum, aided by ahead-of schedule execution of under-construction projects. In the next two financial years, growth will be aided by likely win of a large subcontracting project",
-		"Paytm tells BSE after shares plunge, Paytm shares fall 75% since IPO launch"
-	]
+  "indexes": [
+    {
+      "id": 1,
+      "name": "NIFTY",
+      "price": "17245.65",
+      "change": {
+        "value": "-69.85",
+        "percentage": "0.40"
+      }
+    }
+  ],
+  "userdata": {
+    "balance": "98000",
+    "portfolio": {
+      "invested": "17214.01",
+      "current": "23519.23",
+      "returns": "+32.05"
+    },
+    "holdings": [
+      {
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91"
+      },
+      {
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20"
+      },
+      {
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91"
+      },
+      {
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57"
+      },
+      {
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9"
+      },
+      {
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3"
+      }
+    ],
+    "transactions": [
+      {
+        "type": "buy",
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91",
+        "date": "14 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20",
+        "date": "14 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91",
+        "date": "14 Jun 2022",
+        "time": "9:16 AM",
+        "status": "cancelled"
+      },
+      {
+        "type": "buy",
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57",
+        "date": "14 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9",
+        "date": "14 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3",
+        "date": "14 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "cancelled"
+      },
+      {
+        "type": "buy",
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "cancelled"
+      },
+      {
+        "type": "buy",
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3",
+        "date": "13 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91",
+        "date": "12 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20",
+        "date": "12 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91",
+        "date": "12 Jun 2022",
+        "time": "9:16 AM",
+        "status": "cancelled"
+      },
+      {
+        "type": "buy",
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57",
+        "date": "12 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9",
+        "date": "12 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3",
+        "date": "12 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91",
+        "date": "11 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20",
+        "date": "11 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91",
+        "date": "11 Jun 2022",
+        "time": "9:16 AM",
+        "status": "cancelled"
+      },
+      {
+        "type": "buy",
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57",
+        "date": "11 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9",
+        "date": "11 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3",
+        "date": "11 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "Axis Bank",
+        "price": "1291",
+        "changePer": "-12.91",
+        "date": "10 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "SBI Cards",
+        "price": "781",
+        "changePer": "17.20",
+        "date": "10 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      },
+      {
+        "type": "buy",
+        "name": "IRCTC",
+        "price": "2331",
+        "changePer": "8.91",
+        "date": "10 Jun 2022",
+        "time": "9:16 AM",
+        "status": "cancelled"
+      },
+      {
+        "type": "buy",
+        "name": "MRF",
+        "price": "72910",
+        "changePer": "3.57",
+        "date": "10 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "LICI",
+        "price": "714",
+        "changePer": "-11.9",
+        "date": "10 Jun 2022",
+        "time": "9:16 AM",
+        "status": "pending"
+      },
+      {
+        "type": "sell",
+        "name": "BAJAJ",
+        "price": "3340",
+        "changePer": "12.3",
+        "date": "10 Jun 2022",
+        "time": "9:16 AM",
+        "status": "success"
+      }
+    ]
+  },
+  "stocks": [
+    {
+      "name": "Axis Bank",
+      "price": "1291",
+      "changePer": "-12.91"
+    },
+    {
+      "name": "SBI Cards",
+      "price": "781",
+      "changePer": "17.20"
+    },
+    {
+      "name": "IRCTC",
+      "price": "2331",
+      "changePer": "8.91"
+    },
+    {
+      "name": "MRF",
+      "price": "72910",
+      "changePer": "3.57"
+    },
+    {
+      "name": "LICI",
+      "price": "714",
+      "changePer": "-11.9"
+    },
+    {
+      "name": "BAJAJ",
+      "price": "3340",
+      "changePer": "12.3"
+    }
+  ],
+  "news": [
+    "Every quarter of the last 12 quarters has given reason to turn more positive and raise target multiples of ICICI Bank, said Khemka. ",
+    "IIFL is bullish on HG Infra as it has been able to maintain strength in revenue growth momentum, aided by ahead-of schedule execution of under-construction projects. In the next two financial years, growth will be aided by likely win of a large subcontracting project",
+    "Paytm tells BSE after shares plunge, Paytm shares fall 75% since IPO launch"
+  ]
 }
